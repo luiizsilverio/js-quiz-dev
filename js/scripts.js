@@ -130,7 +130,7 @@ const questions = [
             "correct": false
         },
         {
-            "answer": '<script name="xxx.js">',
+            "answer": '<script src="xxx.js">',
             "correct": true
         },
         ]
